@@ -1,0 +1,95 @@
+.bg-color{
+	background-color: rgba(0,0,0,0.1);
+	min-height: 630px;
+}
+header{
+	background-image: url(../img/red1.jpg);
+	background-size: cover;
+}	
+.name{
+	margin-top: 130px;
+	color: #f7f7f7;
+	font-size: 80px;
+	font-family: 'Lobster', cursive;
+}
+
+
+#imglogo{
+    height: 75px;
+    width:75px ;
+}
+
+#menuh{
+   
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+}
+
+.header-h{
+	color: #133913;
+	font-size: 40px;
+	margin-top: 30px;
+	font-family: 'Pacifico', cursive;
+	margin-bottom: 30px;
+
+}
+.tarjeta-texto{
+	font-family: 'Lobster', cursive;
+}
+.acerca-texto{
+	padding: 30px 100px 100px 100px;
+}
+#acerca{
+	margin-top: 50px;
+}
+
+.links-color{
+	color: saddlebrown;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+
+#footer {
+    width: 100%;
+    height: 100%;
+     background-color: darkred;
+    
+}
+
+.imgsocial{
+	width:70px;
+    height: 70px;
+    
+}
+
+#red{
+    margin-left: 1000px;
+    margin-top: -100px;
+}
+
+.texto{
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+    
+    margin-right: 500px;
+}
+
+.navbar a:hover{
+	color: white;
+	font-size: 21px;
+	background-color:#d32626;
+}
+
+
+.sub{
+        font-family: 'Kaushan Script', cursive;
+}
+
+
+
+
+
+
+    

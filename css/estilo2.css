@@ -1,0 +1,111 @@
+.bg-color{
+	background-color: rgba(0,0,0,0.1);
+	min-height: 630px;
+}
+header{
+	background-image: url(../img/red1.jpg);
+	background-size: cover;
+}	
+.name{
+	margin-top: 130px;
+	color: #f7f7f7;
+	font-size: 80px;
+	font-family: 'Lobster', cursive;
+}
+
+
+#imglogo{
+    height: 75px;
+    width:75px ;
+}
+
+.header-h{
+	color: #133913;
+	font-size: 40px;
+	margin-top: 30px;
+	font-family: 'Pacifico', cursive;
+	margin-bottom: 30px;
+
+}
+.tarjeta-texto{
+	font-family: 'Lobster', cursive;
+}
+.acerca-texto{
+	padding: 30px 100px 100px 100px;
+}
+#acerca{
+	margin-top: 50px;
+}
+
+
+.imgsocial{
+	width:70px;
+    height: 70px;
+}
+
+#menuh{
+   
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+}
+
+#red{
+    margin-left: 1000px;
+    margin-top: -100px;
+}
+
+.links-color{
+	color: saddlebrown;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+
+#footer{
+    width: 100%;
+    height: 100%;
+     background-color: darkred;
+}
+
+.texto{
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.navbar a:hover{
+	color: white;
+	font-size: 21px;
+	background-color:#d32626;
+}
+
+
+.sub{
+        font-family: 'Kaushan Script', cursive;
+}
+
+#for{
+	margin-top: 80px;
+	margin-left: 150px;
+	font-family: 'Lobster', cursive;
+}
+
+#text{
+     text-align: center;
+    width: 45%;
+    height: 450px;
+    background-image: linear-gradient(#dd7631, #f0134d);
+    margin-top: -500px;
+    border-radius: 25px;
+  border: 10px solid #d92027;
+    float: left;
+     font-family: 'Kaushan Script', cursive;
+}
+    
+#cab{
+     margin-top: -500px;
+    float: right;
+    border-radius: 5px;
+  border: 4px solid #d92027;
+    
+}
